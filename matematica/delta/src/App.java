@@ -25,7 +25,7 @@ public class App {
 
         System.out.println("X1 " + x1);
         System.out.println("X2 " + x2);
-        
+
 
 
     }
