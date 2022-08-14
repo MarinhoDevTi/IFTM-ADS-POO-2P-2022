@@ -39,15 +39,12 @@ public class ClassePrincipal {
         System.out.printf("Perimetro do Retângulo: %.4f\n ", perimetro);
         System.out.println("________________________________________");
         System.out.printf("Diagonal do Retângulo: %.4f\n ", diagonal);
-        System.out.println("=================================================");
-
-
-
-        
+        System.out.println("=================================================");      
 
 
         
 
         
     }
+
 }
