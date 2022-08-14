@@ -27,6 +27,22 @@ public class ClassePrincipal {
 
         System.out.println("=================================================");
 
+        //processamento de dados
+        area = base * altura;
+        perimetro = (base + altura) * 2;
+        diagonal = Math.sqrt(Math.pow(base, 2.0) + Math.pow(altura, 2.0));
+
+
+        //saida de dados
+        System.out.printf("Área do Retângulo: %.2f\n " + area);
+        System.out.println("________________________________________");
+        System.out.printf("Perimetro do Retângulo: " + perimetro);
+        System.out.println("________________________________________");
+        System.out.printf("Diagonal do Retângulo: " + diagonal);
+        System.out.println("=================================================");
+
+
+
         
 
 
