@@ -36,9 +36,9 @@ public class ClassePrincipal {
         //saida de dados
         System.out.printf("Área do Retângulo: %.2f\n " + area);
         System.out.println("________________________________________");
-        System.out.printf("Perimetro do Retângulo: " + perimetro);
+        System.out.printf("Perimetro do Retângulo: %.2f\n " + perimetro);
         System.out.println("________________________________________");
-        System.out.printf("Diagonal do Retângulo: " + diagonal);
+        System.out.printf("Diagonal do Retângulo: %.2f\n " + diagonal);
         System.out.println("=================================================");
 
 
