@@ -41,7 +41,8 @@ public class ClassePrincipal {
 
 
         //saida de dados ...
-        System.out.printf("Valor total do metro quadrado: %.2f ", precTot);
+        System.out.printf("Valor total do metro quadrado: %.2f\n ", precTot);
+        System.out.println("------------------------------");
                 
     }
     
