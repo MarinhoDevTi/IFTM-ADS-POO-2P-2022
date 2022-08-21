@@ -9,7 +9,7 @@ public class Prob01Notas {
         //declação de variaveis 
         double notas01, notas02, notafim;
 
-        System.out.println("-=-=-= .:: Lançamento de Notas :;. =-=-=-");
+        System.out.println("-=-=-= .:: Lançamento de Notas ::. =-=-=-");
         
         //leitura de dados
         System.out.println("Notas do Primeiro semestre: []");
@@ -22,11 +22,17 @@ public class Prob01Notas {
         notafim = notas01 + notas02;
 
         if (notafim > 60) {
-            System.out.printf("Notas totais do Aluno: %.f1", notafim);
+            System.out.println("======================================");
+            System.out.printf("Notas totais do Aluno: %.1f%n", notafim);
+            System.out.println("======================================");
             System.out.println("Parabéns você foi aprovado");
+            System.out.println("======================================");
         } else {
-            System.out.printf("Notas totais do Aluno: %.f1", notafim);
+            System.out.println("======================================");
+            System.out.printf("Notas totais do Aluno: %.1f%n", notafim);
+            System.out.println("======================================");
             System.out.println("Aluno REPROVADO");
+            System.out.println("======================================");
         }
 
 
