@@ -19,6 +19,7 @@ public class Prob02Baskara {
         b = ltr.nextInt();
         c = ltr.nextInt();
 
+        
         //cálculo ( valor de delta )
         delta = Math.pow(b,2)- 4 * a * c;
 
@@ -26,7 +27,8 @@ public class Prob02Baskara {
         x1 = (-b + Math.sqrt(delta)) / (2 * a);
         x2 = (-b - Math.sqrt(delta)) / (2 * a);
 
-        //saida dos valores
+        //saida dos valores      
+
         System.out.println("+====================================+");
         System.out.println("Este é o valor de Delta: " + delta);
         System.out.println("+====================================+");
