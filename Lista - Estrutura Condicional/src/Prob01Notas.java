@@ -34,7 +34,7 @@ public class Prob01Notas {
             System.out.println("Aluno REPROVADO");
             System.out.println("======================================");
         }
-
+        ltr.close();
 
     }
     
