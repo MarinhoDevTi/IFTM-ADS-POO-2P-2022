@@ -23,7 +23,7 @@ public class ClassePrincipal {
             //Leitura de valores ...
             System.out.println("Digite os Numeros X e Y:  ");
             x = ltr.nextInt();            
-            y = ltr.nextInt();09
+            y = ltr.nextInt();
 
 
         //condição 
