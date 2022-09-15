@@ -12,34 +12,34 @@ public class ClassePrincipal {
         valores iguais.
         */
 
-        //declaração variavel de Leitura
-        Scanner ltr = new Scanner(System.in);
+        try (//declaração variavel de Leitura
+        Scanner ltr = new Scanner(System.in)) {
+            //declaração de variaveis
+            int x;
+            int y;
 
-        //declaração de variaveis
-        int x;
-        int y;
+            System.out.println("+======================================+");
 
-        System.out.println("+======================================+");
+            //Leitura de valores ...
+            System.out.println("Digite o Primeiro número: ");
+            x = ltr.nextInt();
 
-        //Leitura de valores ...
-        System.out.println("Digite o Primeiro número: ");
-        x = ltr.nextInt();
-
-        System.out.println("Digite o Segundo número: ");
-        y = ltr.nextInt();
+            System.out.println("Digite o Segundo número: ");
+            y = ltr.nextInt();
 
 
-        //condição 
-        while (x != y) {
-            if ( x > y ) {
-                System.out.printf("Você digitou: ", x, y);
-                System.out.println("Decrescente");
-            } else {
-                System.out.printf("Você digitou: ", x, y);
-                System.out.println("Decrescente");
+            //condição 
+            while (x != y) {
+                if ( x > y ) {
+                    System.out.printf("Você digitou: ", x, y);
+                    System.out.println("Decrescente");
+                } else {
+                    System.out.printf("Você digitou: ", x, y);
+                    System.out.println("Decrescente");
+                }
             }
         }
-               
+
     }
     
 }
