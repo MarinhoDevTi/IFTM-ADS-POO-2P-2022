@@ -1,5 +1,10 @@
-public class LivroNotas {
+public class LivroNotas {   
     
-    String nomeCurso;
     
 }
+
+
+public void nomeCurso(){
+
+}
+    
