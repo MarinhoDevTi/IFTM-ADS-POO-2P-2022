@@ -11,6 +11,7 @@ public class Prob01Notas {
 
         System.out.println("-=-=-= .:: Lançamento de Notas ::. =-=-=-");
         
+        
         //leitura de dados
         System.out.println("Notas do Primeiro semestre: []");
         notas01 = ltr.nextDouble();

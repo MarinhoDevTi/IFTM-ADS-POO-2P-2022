@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListaEstruturaRepeticao/01ProbCrescente/01ProbCrescente.iml" filepath="$PROJECT_DIR$/ListaEstruturaRepeticao/01ProbCrescente/01ProbCrescente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova01POO-15092022/01ProbPagamento/01ProbPagamento.iml" filepath="$PROJECT_DIR$/Prova01POO-15092022/01ProbPagamento/01ProbPagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova01POO-15092022/02ProbFatorial/02ProbFatorial.iml" filepath="$PROJECT_DIR$/Prova01POO-15092022/02ProbFatorial/02ProbFatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEstruturaRepeticao/02ProbMediaIdades/02ProbMediaIdades.iml" filepath="$PROJECT_DIR$/ListaEstruturaRepeticao/02ProbMediaIdades/02ProbMediaIdades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova01POO-15092022/03ProbCalculadora/03ProbCalculadora.iml" filepath="$PROJECT_DIR$/Prova01POO-15092022/03ProbCalculadora/03ProbCalculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova01POO-15092022/04ProbGlicose/04ProbGlicose.iml" filepath="$PROJECT_DIR$/Prova01POO-15092022/04ProbGlicose/04ProbGlicose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiaDaSemana/DiaDaSemana.iml" filepath="$PROJECT_DIR$/DiaDaSemana/DiaDaSemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IFTM-ADS-POO-2P-2022.iml" filepath="$PROJECT_DIR$/.idea/IFTM-ADS-POO-2P-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFxProject/JavaFxProject.iml" filepath="$PROJECT_DIR$/JavaFxProject/JavaFxProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEstruturaCondicional/ListaEstruturaCondicional.iml" filepath="$PROJECT_DIR$/ListaEstruturaCondicional/ListaEstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEstruturaSequencial/MetroQuadrado/MetroQuadrado.iml" filepath="$PROJECT_DIR$/ListaEstruturaSequencial/MetroQuadrado/MetroQuadrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO-01/POO-01.iml" filepath="$PROJECT_DIR$/POO-01/POO-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlanoMinutos/PlanoMinutos.iml" filepath="$PROJECT_DIR$/PlanoMinutos/PlanoMinutos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova02POO-17112022/Prova02POO-17112022.iml" filepath="$PROJECT_DIR$/Prova02POO-17112022/Prova02POO-17112022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste02/Teste02.iml" filepath="$PROJECT_DIR$/Teste02/Teste02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe201022/exe201022.iml" filepath="$PROJECT_DIR$/exe201022/exe201022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extrutu01/extrutu01.iml" filepath="$PROJECT_DIR$/extrutu01/extrutu01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horariox/horariox.iml" filepath="$PROJECT_DIR$/horariox/horariox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matematica/matematica.iml" filepath="$PROJECT_DIR$/matematica/matematica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEstruturaSequencial/retangulo/retangulo.iml" filepath="$PROJECT_DIR$/ListaEstruturaSequencial/retangulo/retangulo.iml" />
+    </modules>
+  </component>
+</project>
